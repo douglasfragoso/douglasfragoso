@@ -3,6 +3,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglasfragoso=contribs,prs)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglasfraogoso&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglasfragoso&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasfragoso)](https://github.com/douglasfragoso/github-readme-stats)
