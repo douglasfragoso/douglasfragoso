@@ -13,5 +13,5 @@ Sou técnico, tecnólogo e bacharel em administração e processos gerenciais, p
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglasfragoso&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasfragoso)](https://github.com/douglasfragoso/github-readme-stats)
+[[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasfragoso)](https://github.com/douglasfragoso/github-readme-stats)](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasfragoso&theme=blue-green)https://github-readme-stats.vercel.app/api/top-langs/?username=douglasfragoso&theme=blue-green
 
