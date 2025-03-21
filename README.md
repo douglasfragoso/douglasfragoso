@@ -28,4 +28,6 @@ In the technology field, I started learning programming with Java. Additionally,
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=douglasfragoso&repo=rest-spring-test&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/douglasfragoso/rest-spring-test)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=douglasfragoso&repo=recommender-pe&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/douglasfragoso/recommender-pe)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=douglasfragoso&repo=intensivo-java-spring&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/douglasfragoso/intensivo-java-spring)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=douglasfragoso&repo=chess-system-java&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/douglasfragoso/chess-system-java)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=douglasfragoso&repo=chess-system-java&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/douglasfragoso/chess-system-java) 
+
+[![Visitas](https://komarev.com/ghpvc/?username=douglasfragoso&color=blueviolet&style=for-the-badge)](https://github.com/douglasfragoso)
