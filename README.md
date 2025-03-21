@@ -21,7 +21,7 @@ In the technology field, I started learning programming with Java. Additionally,
   <img align="center" alt="html5" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </div><br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglasfragoso&show_icons=true&theme=radical&include_all_commits=true&v=2)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglasfragoso&show_icons=true&theme=radical&include_all_commits=true&v=3)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasfragoso&layout=compact&theme=radical)
 
