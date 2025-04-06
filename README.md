@@ -40,19 +40,22 @@ Currently, I have FullStack skills with Spring Boot, React JS, and business acum
 ## Featured Repositories
 
 <div align="center">
-  <a href="https://github.com/douglasfragoso/rest-spring-test">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=douglasfragoso&repo=rest-spring-test&theme=radical"/>
-  </a>
-  <a href="https://github.com/douglasfragoso/recommender-pe">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=douglasfragoso&repo=recommender-pe&theme=radical"/>
-  </a>
-  <a href="https://github.com/douglasfragoso/sgp-spring-boot">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=douglasfragoso&repo=sgp-spring-boot&theme=radical"/>
-  </a>
-  <a href="https://github.com/douglasfragoso/sgp-react">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=douglasfragoso&repo=sgp-react&theme=radical"/>
-  </a>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <a href="https://github.com/douglasfragoso/rest-spring-test">
+      <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=douglasfragoso&repo=rest-spring-test&theme=radical"/>
+    </a>
+    <a href="https://github.com/douglasfragoso/recommender-pe">
+      <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=douglasfragoso&repo=recommender-pe&theme=radical"/>
+    </a>
+    <a href="https://github.com/douglasfragoso/sgp-spring-boot">
+      <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=douglasfragoso&repo=sgp-spring-boot&theme=radical"/>
+    </a>
+    <a href="https://github.com/douglasfragoso/sgp-react">
+      <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=douglasfragoso&repo=sgp-react&theme=radical"/>
+    </a>
+  </div>
 </div>
+
 
 
 <div align="center" style="margin-top:20px">
