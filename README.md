@@ -1,7 +1,5 @@
 # Hi, my name is Douglas 👋 
 
-I love playing video games, especially FIFA, Pokémon, and Fortnite. I also enjoy spending time with friends, traveling, and attending concerts.
-
 Regarding my professional background and studies, I began my journey in management (where I hold a bachelor's degree, technician, and technologist certifications). Currently, I work in general management in the healthcare sector, where I focus on financial, contractual, negotiation, and other areas.
 
 In technology, I started learning programming with Java and am pursuing a Master's in Business Administration with a focus on Software Engineering at the University of São Paulo. This has expanded my knowledge in cloud computing, software architecture, programming paradigms, databases, and more.
