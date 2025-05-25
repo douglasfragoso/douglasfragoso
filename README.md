@@ -66,7 +66,3 @@ Currently, I have FullStack skills with Spring Boot, React JS, and business acum
 
 
 
-
-<div align="center" style="margin-top:20px">
-  <img src="https://komarev.com/ghpvc/?username=douglasfragoso&color=blueviolet&style=for-the-badge" alt="Profile views"/>
-</div>
