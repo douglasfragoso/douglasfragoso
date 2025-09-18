@@ -40,8 +40,8 @@ Currently, I have FullStack skills with Spring Boot, React JS, and business acum
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/douglasfragoso/rest-spring-test">
-        <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=douglasfragoso&repo=rest-spring-test&theme=radical"/>
+      <a href="https://github.com/douglasfragoso/recommender-pe-react">
+        <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=douglasfragoso&repo=recommender-pe-react&theme=radical"/>
       </a>
     </td>
     <td>
