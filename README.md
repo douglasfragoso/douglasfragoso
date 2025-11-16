@@ -53,13 +53,13 @@ Currently, I have FullStack skills with Spring Boot, React JS, and business acum
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/douglasfragoso/sgp-spring-boot">
-        <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=douglasfragoso&repo=sgp-spring-boot&theme=radical"/>
+      <a href="https://github.com/douglasfragoso/langchain4j-and-spring-boot">
+        <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=douglasfragoso&repo=langchain4j-and-spring-boot&theme=radical"/>
       </a>
     </td>
     <td>
-      <a href="https://github.com/douglasfragoso/sgp-react">
-        <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=douglasfragoso&repo=sgp-react&theme=radical"/>
+      <a href="https://github.com/douglasfragoso/chess-system-java">
+        <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=douglasfragoso&repo=chess-system-java&theme=radical"/>
       </a>
     </td>
   </tr>
