@@ -8,62 +8,66 @@ Currently, I have FullStack skills with Spring Boot, React JS, and business acum
 
 ## Tech Stack
 
-<div style="display: inline_block" align="center">
+<div align="center">
 
 ### Frontend
-  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
-  ### Backend
-  <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+### Backend
+<img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-  ### Tools
-  <img alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img alt="vscode" src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="n8n" src="https://img.shields.io/badge/n8n-1A1A1A?style=for-the-badge&logo=n8n&logoColor=white"/>
+### Tools
+<img alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img alt="vscode" src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+<img alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="n8n" src="https://img.shields.io/badge/n8n-1A1A1A?style=for-the-badge&logo=n8n&logoColor=white"/>
+
 </div>
 
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglasfragoso&show_icons=true&theme=radical&include_all_commits=true&v=3"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasfragoso&layout=compact&theme=radical"/>
+  <a href="https://github.com/douglasfragoso">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=douglasfragoso&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/douglasfragoso">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasfragoso&layout=compact&theme=radical"/>
+  </a>
 </div>
 
 ## Featured Repositories
 
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/douglasfragoso/recommender-pe-react">
-        <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=douglasfragoso&repo=recommender-pe-react&theme=radical"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/douglasfragoso/recommender-pe">
-        <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=douglasfragoso&repo=recommender-pe&theme=radical"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/douglasfragoso/langchain4j-and-spring-boot">
-        <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=douglasfragoso&repo=langchain4j-and-spring-boot&theme=radical"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/douglasfragoso/chess-system-java">
-        <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=douglasfragoso&repo=chess-system-java&theme=radical"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/douglasfragoso/recommender-pe-react">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=douglasfragoso&repo=recommender-pe-react&theme=radical"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/douglasfragoso/recommender-pe">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=douglasfragoso&repo=recommender-pe&theme=radical"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/douglasfragoso/recommender-pe-rag">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=douglasfragoso&repo=recommender-pe-rag&theme=radical"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/douglasfragoso/chess-system-java">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=douglasfragoso&repo=chess-system-java&theme=radical"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
