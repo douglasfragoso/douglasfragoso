@@ -51,3 +51,16 @@ Currently, I have FullStack skills with Spring Boot, React JS, and business acum
       </a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/douglasfragoso/recommender-pe-rag">
+        <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=douglasfragoso&repo=recommender-pe-rag&theme=radical"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/douglasfragoso/chess-system-java">
+        <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=douglasfragoso&repo=chess-system-java&theme=radical"/>
+      </a>
+    </td>
+  </tr>
+</table>
