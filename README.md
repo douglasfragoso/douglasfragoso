@@ -1,4 +1,4 @@
-# Hi, my name is Douglas 👋
+estou com problemas no meu readme do meu perfil do github - não está aparecendo nem o gitstatus nem o recommender-pe-rag - # Hi, my name is Douglas 👋 
 
 Regarding my professional background and studies, I began my journey in management (where I hold a bachelor's degree, technician, and technologist certifications). Currently, I work in general management in the healthcare sector, where I focus on financial, contractual, negotiation, and other areas.
 
@@ -32,20 +32,43 @@ Currently, I have FullStack skills with Spring Boot, React JS, and business acum
 
 ## GitHub Stats
 
-<div align="center">
-  
-![Douglas's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglasfragoso&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasfragoso&layout=compact&theme=radical&hide=procfile)
-
-</div>
+<p align="center">
+  <a href="https://github.com/douglasfragoso">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=douglasfragoso&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/douglasfragoso">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasfragoso&layout=compact&theme=radical"/>
+  </a>
+</p>
 
 ## Featured Repositories
 
 <div align="center">
-  
-| | |
-| :---: | :---: |
-| [![Recommender PE React](https://github-readme-stats.vercel.app/api/pin/?username=douglasfragoso&repo=recommender-pe-react&theme=radical)](https://github.com/douglasfragoso/recommender-pe-react) | [![Recommender PE](https://github-readme-stats.vercel.app/api/pin/?username=douglasfragoso&repo=recommender-pe&theme=radical)](https://github.com/douglasfragoso/recommender-pe) |
-| [![Recommender PE RAG](https://github-readme-stats.vercel.app/api/pin/?username=douglasfragoso&repo=recommender-pe-rag&theme=radical)](https://github.com/douglasfragoso/recommender-pe-rag) | [![Chess System Java](https://github-readme-stats.vercel.app/api/pin/?username=douglasfragoso&repo=chess-system-java&theme=radical)](https://github.com/douglasfragoso/chess-system-java) |
-
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/douglasfragoso/recommender-pe-react">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=douglasfragoso&repo=recommender-pe-react&theme=radical"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/douglasfragoso/recommender-pe">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=douglasfragoso&repo=recommender-pe&theme=radical"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/douglasfragoso/recommender-pe-rag">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=douglasfragoso&repo=recommender-pe-rag&theme=radical"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/douglasfragoso/chess-system-java">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=douglasfragoso&repo=chess-system-java&theme=radical"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
