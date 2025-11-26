@@ -29,10 +29,11 @@ Currently, I have FullStack skills with Spring Boot, React JS, and business acum
   <img alt="n8n" src="https://img.shields.io/badge/n8n-1A1A1A?style=for-the-badge&logo=n8n&logoColor=white"/>
 </div>
 
-## GitHub Trophies 
+## GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=douglasfragoso&theme=radical&no-frame=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglasfragoso&show_icons=true&theme=radical&include_all_commits=true&v=3"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasfragoso&layout=compact&theme=radical"/>
 </div>
 
 ## Featured Repositories
