@@ -29,38 +29,3 @@ Currently, I have FullStack skills with Spring Boot, React JS, and business acum
   <img alt="n8n" src="https://img.shields.io/badge/n8n-1A1A1A?style=for-the-badge&logo=n8n&logoColor=white"/>
 </div>
 
-## GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglasfragoso&show_icons=true&theme=radical&include_all_commits=true&v=3"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasfragoso&layout=compact&theme=radical"/>
-</div>
-
-## Featured Repositories
-
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/douglasfragoso/recommender-pe-react">
-        <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=douglasfragoso&repo=recommender-pe-react&theme=radical"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/douglasfragoso/recommender-pe">
-        <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=douglasfragoso&repo=recommender-pe&theme=radical"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/douglasfragoso/recommender-pe-rag">
-        <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=douglasfragoso&repo=recommender-pe-rag&theme=radical"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/douglasfragoso/chess-system-java">
-        <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=douglasfragoso&repo=chess-system-java&theme=radical"/>
-      </a>
-    </td>
-  </tr>
-</table>
