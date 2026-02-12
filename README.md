@@ -1,10 +1,10 @@
 # Hi, my name is Douglas 👋 
 
-Regarding my professional background and studies, I began my journey in management (where I hold a bachelor's degree, technician, and technologist certifications). Currently, I work in general management in the healthcare sector, where I focus on financial, contractual, negotiation, and other areas.
+Building on a solid foundation in management—with Technical, Technologist, and Bachelor’s degrees—I previously led operations in the healthcare sector, overseeing financial, contractual, and strategic negotiations. This trajectory allowed me to develop a systemic perspective and a sharp business acumen, which are now the primary differentiators in my technology career.
 
-In technology, I started learning programming with Java and am pursuing a Master's in Business Administration with a focus on Software Engineering at the University of São Paulo. This has expanded my knowledge in cloud computing, software architecture, programming paradigms, databases, and more.
+Currently, I specialize in FullStack development with a focus on Java, Spring Boot, and React JS. My technical growth is driven by an MBA in Software Engineering at the University of São Paulo (USP), where I deepen my expertise in software architecture, cloud computing, programming paradigms, and databases. I am passionate about building scalable, secure, and high-quality solutions, always prioritizing clean code and API development best practices.
 
-Currently, I have FullStack skills with Spring Boot, React JS, and business acumen to build scalable and secure solutions. I enjoy contributing to innovative projects and improving my skills in API development and code best practices, ensuring a holistic view of projects through familiarity with systemic processes and problem-solving.
+At present, I serve as a Software Testing Intern (QA) with a specialized focus on Artificial Intelligence. I work directly with the validation and optimization of Large Language Models (LLMs) and Small Language Models (SLMs), bridging the technical precision of software testing with AI innovation. My goal is to contribute to disruptive projects where I can leverage both my business process experience and engineering skills to solve complex challenges.
 
 ## Tech Stack
 
@@ -22,6 +22,10 @@ Currently, I have FullStack skills with Spring Boot, React JS, and business acum
   <img alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 
+  ### AI & LLM
+  <img alt="llm" src="https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=google-gemini&logoColor=white"/>
+  <img alt="ollama" src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+  
   ### Tools
   <img alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img alt="vscode" src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
