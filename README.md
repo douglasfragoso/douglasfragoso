@@ -21,6 +21,7 @@ At present, I serve as a Software Testing Intern (QA) with a specialized focus o
   <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="neo4j" src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"/>
 
   ### AI & LLM
   <img alt="llm" src="https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=google-gemini&logoColor=white"/>
