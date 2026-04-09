@@ -27,7 +27,9 @@ At present, I serve as a Software Testing Intern (QA) with a specialized focus o
   ### AI & LLM
   <img alt="llm" src="https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=google-gemini&logoColor=white"/>
   <img alt="ollama" src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
-  
+  <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img alt="Cline" src="https://img.shields.io/badge/Cline-5D5D5D?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
   ### Tools
   <img alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img alt="vscode" src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
