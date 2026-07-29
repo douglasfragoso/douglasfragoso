@@ -1,6 +1,6 @@
 # Hi, my name is Douglas 👋 
 
-Building on a solid foundation in management (holding Technical, Technologist, and Bachelor’s degrees) I bring a systemic perspective and sharp business acumen to my technology career. I previously led operations in the healthcare sector, overseeing financial, contractual, and strategic negotiations. This trajectory allowed me to develop a strategic mindset that now serves as a primary differentiator in my approach to software engineering and product development.
+Building on a solid foundation in management (holding Technical, Technologist, and Bachelor’s degrees), I bring a systemic perspective and sharp business acumen to my technology career. I previously led operations in the healthcare sector, overseeing financial, contractual, and strategic negotiations. This trajectory allowed me to develop a strategic mindset that now serves as a primary differentiator in my approach to software engineering and product development.
 
 My technical growth is driven by an Master of Business Administration in Software Engineering at the University of São Paulo (USP), where I deepened my expertise in software architecture, cloud computing, programming paradigms, and databases. I currently specialize in FullStack development with a focus on Java, Spring Boot, and React JS. I am passionate about building scalable, secure, and high-quality solutions, always prioritizing clean code and API development best practices.
 
