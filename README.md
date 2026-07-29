@@ -1,10 +1,12 @@
 # Hi, my name is Douglas 👋 
 
-Building on a solid foundation in management — with Technical, Technologist, and Bachelor’s degrees — I previously led operations in the healthcare sector, overseeing financial, contractual, and strategic negotiations. This trajectory allowed me to develop a systemic perspective and a sharp business acumen, which are now the primary differentiators in my technology career.
+Building on a solid foundation in management (holding Technical, Technologist, and Bachelor’s degrees) I bring a systemic perspective and sharp business acumen to my technology career. I previously led operations in the healthcare sector, overseeing financial, contractual, and strategic negotiations. This trajectory allowed me to develop a strategic mindset that now serves as a primary differentiator in my approach to software engineering and product development.
 
-Currently, I specialize in FullStack development with a focus on Java, Spring Boot, and React JS. My technical growth is driven by an MBA in Software Engineering at the University of São Paulo (USP), where I deepen my expertise in software architecture, cloud computing, programming paradigms, and databases. I am passionate about building scalable, secure, and high-quality solutions, always prioritizing clean code and API development best practices.
+My technical growth is driven by an Master of Business Administration in Software Engineering at the University of São Paulo (USP), where I deepened my expertise in software architecture, cloud computing, programming paradigms, and databases. I currently specialize in FullStack development with a focus on Java, Spring Boot, and React JS. I am passionate about building scalable, secure, and high-quality solutions, always prioritizing clean code and API development best practices.
 
-At present, I serve as a Software Testing Intern (QA) with a specialized focus on Artificial Intelligence. I work directly with the validation and optimization of Large Language Models (LLMs) and Small Language Models (SLMs), bridging the technical precision of software testing with AI innovation. My goal is to contribute to disruptive projects where I can leverage both my business process experience and engineering skills to solve complex challenges.
+At present, I am pursuing a Master’s degree in Computational Intelligence (PPGEC/UPE) and serving as a Software Testing Intern (QA) with a specialized focus on Artificial Intelligence. I work directly with the validation and optimization of Large Language Models (LLMs) and Small Language Models (SLMs), as well as developing Augmented Document Intelligence solutions using Graph RAG architectures. By bridging the technical precision of software testing with AI innovation, I am highly focused on generating reliable "Trustworthy AI" metrics.
+
+My goal is to contribute to disruptive projects where I can leverage both my business process experience and my engineering skills to solve complex challenges.
 
 ## Tech Stack
 
